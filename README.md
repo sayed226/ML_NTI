@@ -1,3 +1,6 @@
-#employee_churn_predictor
+# Employee Churn Predictor
 
-team mates =["Sayed Ayman","Mohamed Fawzy","Hesham Abdelkhalek"]
+## List of Members
+- Hesham Abdelkhalek
+- Mohamed Fawzy
+- Sayed Ayman
